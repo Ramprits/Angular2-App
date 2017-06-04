@@ -1,0 +1,54 @@
+  .bootstrap-iso .formden_header h2,
+  .bootstrap-iso .formden_header p,
+  .bootstrap-iso form {
+    font-family: Georgia, serif;
+    color: #17b762
+  }
+
+  .bootstrap-iso form button,
+  .bootstrap-iso form button:hover {
+    color: #17b762 !important;
+  }
+
+  .bootstrap-iso .btn-custom {
+    background: #17b762
+  }
+
+  .bootstrap-iso .btn-custom:hover {
+    background: #03a34e;
+  }
+
+  .bootstrap-iso .outline,
+  .bootstrap-iso .outline:focus {
+    background-color: transparent;
+    border: 2px solid #17b762
+  }
+
+  .bootstrap-iso .outline:hover {
+    background-color: transparent;
+    border: 2px solid#3fdf8a;
+    color: #3fdf8a !important
+  }
+
+  .bootstrap-iso .form-control:focus {
+    border-color: #17b762;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+  }
+
+  .bootstrap-iso .has-error .form-control:focus {
+    -webkit-box-shadow: none;
+    box-shadow: none;
+  }
+
+  .asteriskField {
+    color: red;
+  }
+
+  .bootstrap-iso form .input-group-addon {
+    color: #17b762;
+    background-color: #ffffff;
+    border-radius: 4px;
+    padding-left: 12px
+  }
+
